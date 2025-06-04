@@ -40,7 +40,8 @@ Overall, this program demonstrates the fundamental steps of building a spam dete
 
 
 *OUTPUT VIDEO* :
-https://github.com/user-attachments/assets/6a679cdf-4871-43fc-9e4c-7fcbb375ad5b
+
+https://github.com/user-attachments/assets/3aa0942d-368e-4ba7-a5f4-1a0b225e65ec
 
 
 
