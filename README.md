@@ -27,6 +27,22 @@ After training, the model is tested using the unseen test data by calling the pr
 Overall, this program demonstrates the fundamental steps of building a spam detection system using basic natural language processing and machine learning techniques. It shows how to preprocess text, convert it into numerical features, apply a machine learning algorithm, and evaluate the results. While the dataset is small and manually defined for simplicity, the structure of the program can be easily scaled up to work with larger and more complex datasets for real-world spam detection applications.
 
 
+*OUTPUT PHOTOS* :
+
+*PHOTO-1* :
+![Image](https://github.com/user-attachments/assets/75ae6b77-9376-4a0a-be79-9337b9b4d540)
+
+*PHOTO-2* :
+![Image](https://github.com/user-attachments/assets/b958b859-13c2-445d-a100-0c2380426b73)
+
+*PHOTO-3* :
+![Image](https://github.com/user-attachments/assets/6345a7aa-b05b-49f3-ba8d-933c79e7066f)
+
+
+*OUTPUT VIDEO* :
+https://github.com/user-attachments/assets/6a679cdf-4871-43fc-9e4c-7fcbb375ad5b
+
+
 
 
 
